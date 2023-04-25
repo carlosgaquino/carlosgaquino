@@ -7,7 +7,7 @@
 - 🇺🇸  Posso traduzir Inglês para PT(BR) ou o contrário se quiser!
 
 ### Welcome to my Profile! 👋
-- 🌱 Studying Intermediate Python - Data Science and Graphics with Python
+- 🌱 Studying Intermediate Python - Data Science and Graphics with Python.
 - 🧠 I know a lot about Python, i have seen the basics of HTML/CSS/JS, C and VHDL. I have already worked with H5P. 
 - 👯 I would love to colaborate with projects related to Online Education, Use of Public Data and Electronics in general. 
 - ⚡ Electronics Lover and formed as Electronics Technician!
