@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil! 👋 
 
 - 🌱 Estudando Python em nível Intermediário - Data Science e Gráficos em Python.
-- 🧠 Sei bastante de Python e possuo HTML/CSS/JS Básico.
+- 🧠 Sei bastante de Python e HTML/CSS/JS Básico.
 - 👯 Quero colaborar em projetos relacionados a Educação Online, Uso de Dados Públicos e Eletrônica no geral.
 - ⚡ Amante de Eletrônica e formado Técnico em Eletrônica =)
 - 🇺🇸  Posso traduzir Inglês para PT(BR) ou o contrário se quiser!
